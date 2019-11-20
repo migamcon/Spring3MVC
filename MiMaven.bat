@@ -1,3 +1,3 @@
 echo "Building the Project : %date% : %time%"
-mvn --version
-echo "ejecutado MAVEN"
+https://github.com/migamcon/Spring3MVC.git
+mvn clean package
